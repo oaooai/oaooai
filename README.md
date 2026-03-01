@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Simple and realistic 2D physics engine in JavaScript
+
+- 🌱 I’m currently learning Python, java
+
 <!--
 **oaooai/oaooai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
